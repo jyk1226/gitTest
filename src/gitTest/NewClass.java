@@ -5,6 +5,7 @@ public class NewClass {
 	public static void main(String[] args) {
 		System.out.println("안녕하세요 감사해요");
 		System.out.println("new Class branch HotFix Test");
+		System.out.println("hotfix");
 	}
 
 }
